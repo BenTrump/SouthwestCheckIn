@@ -1,2 +1,2 @@
 Southwest Check In:
-More to come!
+Must use the appropriate web driver. For chrome, visit http://chromedriver.chromium.org/
